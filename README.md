@@ -1,3 +1,3 @@
 # Curriculo
-Curriculo atualizado 2024
-autor: Davi Kazussuke
+*Curriculo atualizado 2024
+*autor: Davi Kazussuke
